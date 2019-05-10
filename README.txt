@@ -1,0 +1,1 @@
+基于EventBus的封装demo，简化EventBus的注册以及调用，事件的快速创建及解析
