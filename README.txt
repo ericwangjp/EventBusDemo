@@ -1,4 +1,5 @@
 EventBusDemo
+
 基于EventBus的简单封装demo，简化EventBus的注册以及调用，事件的快速创建及解析
 EventBus git 地址：https://github.com/greenrobot/EventBus
 AndroidStudio 使用前在app的build.gradle中添加依赖：
